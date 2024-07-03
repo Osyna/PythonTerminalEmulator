@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-PythonCMD is a powerful and customizable command-line interface emulator written in Python. It provides a rich set of built-in commands, support for custom commands, and a file management system, all wrapped in a user-friendly interface.
+PythonTerminalEmulator is a powerful and customizable command-line interface emulator written in Python. It provides a rich set of built-in commands, support for custom commands, and a file management system, all wrapped in a user-friendly interface.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ PythonCMD is a powerful and customizable command-line interface emulator written
 1. Ensure you have Python 3.6 or higher installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pythoncmd.git
+   git clone https://github.com/Osyna/PythonTerminalEmulator.git
    ```
 3. Navigate to the project directory:
    ```
@@ -148,7 +148,7 @@ args = arg1 arg2
 
 ## Contributing
 
-Contributions to PythonCMD are welcome! Please follow these steps:
+Contributions to PythonTerminalEmulator are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/amazing-feature`)
