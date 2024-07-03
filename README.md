@@ -1,4 +1,4 @@
-# PythonCMD Emulator
+# Python Terminal Emulator
 
 ![PythonTerminalEmulator Logo](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png)
 
