@@ -165,6 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Irvin aka Osyna
 
 For issues, feature requests, or questions, please [open an issue](https://github.com/yourusername/pythoncmd/issues).
