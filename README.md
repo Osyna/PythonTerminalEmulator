@@ -1,6 +1,6 @@
 # PythonCMD Emulator
 
-![PythonCMD Logo](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png)
+![PythonTerminalEmulator Logo](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png)
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -38,7 +38,7 @@ PythonTerminalEmulator is a powerful and customizable command-line interface emu
    ```
 3. Navigate to the project directory:
    ```
-   cd pythoncmd
+   cd PythonTerminalEmulator
    ```
 4. Run the main script:
    ```
@@ -73,11 +73,11 @@ PythonCMD comes with a variety of built-in commands:
 | `fm` | Open the file manager |
 | `search <query>` | Search command history |
 
-For more details on each command, use `help <command>` within PythonCMD.
+For more details on each command, use `help <command>` within PythonTerminalEmulator.
 
 ## Custom Commands
 
-PythonCMD allows you to create and manage custom commands:
+PythonTerminalEmulator allows you to create and manage custom commands:
 
 - `addcmd`: Add a new custom command
 - `rmcmd`: Remove a custom command
@@ -113,7 +113,7 @@ Hello, Alice!
 
 ## File Manager
 
-PythonCMD includes a built-in file manager. To access it, use the `fm` command. The file manager provides the following features:
+PythonTerminalEmulator includes a built-in file manager. To access it, use the `fm` command. The file manager provides the following features:
 
 - Navigate directories
 - Copy, move, and delete files and directories
@@ -135,7 +135,7 @@ File Manager Commands:
 
 ## Configuration
 
-PythonCMD uses a configuration file `commands.cfg` to store custom commands and aliases. This file is automatically created and updated as you add or modify custom commands and aliases.
+PythonTerminalEmulator uses a configuration file `commands.cfg` to store custom commands and aliases. This file is automatically created and updated as you add or modify custom commands and aliases.
 
 You can manually edit this file, but be careful to maintain the correct syntax:
 
