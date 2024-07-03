@@ -167,4 +167,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by Irvin / Osyna
 
-For issues, feature requests, or questions, please [open an issue](https://github.com/yourusername/pythoncmd/issues).
+For issues, feature requests, or questions, please [open an issue](https://github.com/Osyna/PythonTerminalEmulator/issues).
