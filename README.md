@@ -1,6 +1,6 @@
 # PythonCMD Emulator
 
-![PythonCMD Logo]([https://via.placeholder.com/150x150.png?text=PythonCMD](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png))
+![PythonCMD Logo](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png)
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -165,6 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Irvin aka Osyna
+Made with ❤️ by Irvin / Osyna
 
 For issues, feature requests, or questions, please [open an issue](https://github.com/yourusername/pythoncmd/issues).
