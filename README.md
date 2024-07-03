@@ -1,6 +1,6 @@
 # PythonCMD Emulator
 
-![PythonCMD Logo](https://via.placeholder.com/150x150.png?text=PythonCMD)
+![PythonCMD Logo]([https://via.placeholder.com/150x150.png?text=PythonCMD](https://raw.githubusercontent.com/Osyna/PythonTerminalEmulator/main/cmd_screenshot.png))
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
