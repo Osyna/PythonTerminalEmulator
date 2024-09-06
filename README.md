@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 PythonTerminalEmulator is a powerful and customizable command-line interface emulator written in Python. It provides a rich set of built-in commands, support for custom commands, and a file management system, all wrapped in a user-friendly interface.
-It can be very usefull in very limited system where CMD or Powershell is restricted. Often System call are not, so simply by using python os and sys, you directly call system function.
+It can be very usefull in very limited system where CMD or Powershell is restricted, but often System call are not, so simply by using python os and sys, you can directly call system functions.
 
 ## Table of Contents
 
